@@ -622,13 +622,13 @@ h3.my-profession
 /* Portfolio */
 .portfolio .container
 {
-    padding-bottom: 40px;
+    padding-bottom: 50px;
 }
 .portfolio .protfolio-heading
 {
     flex: 0 0 100%;
     max-width: 100%;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
 }
 .portfolio .portfolio-heading h2
 {
@@ -637,9 +637,9 @@ h3.my-profession
 }
 .portfolio .portfolio-item
 {
-    flex: 0 0 33.33%;
-    max-width: 33.33%;
-    margin-bottom: 30px;
+    flex: 0 0 50.00%;
+    max-width: 50.00%;
+    margin-bottom: 50px;
 }
 .portfolio .portfolio-item-inner
 {
@@ -648,7 +648,7 @@ h3.my-profession
     overflow: hidden;
     cursor: pointer;
 }
-.portfolio .portfolio-item-inner .portfolio.img img
+.portfolio .portfolio-item-inner .portfolio-img img
 {
     width: 100%;
     display: block;
